@@ -1,0 +1,6 @@
+{
+  "name": "Asha The Hope - Mental Health & Art Therapy Mobile App",
+  "description": "Official mobile app for Asha The Hope (ashathehope.in): counseling, expressive art therapy, holistic healing courses, appointment booking, and daily wellness tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
